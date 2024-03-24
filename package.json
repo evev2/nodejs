@@ -1,0 +1,11 @@
+{
+  "name": "nodetest1",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "eugen",
+  "license": "ISC"
+}
